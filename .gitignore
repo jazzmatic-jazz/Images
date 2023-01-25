@@ -1,0 +1,7 @@
+env/
+image/.env
+image/__pycache__/
+upload/__pycache__/
+account/__pycache__/
+__sized__/images/
+db.sqlite3
